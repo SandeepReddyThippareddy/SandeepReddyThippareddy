@@ -80,8 +80,9 @@ I once optimized a video streaming platform to support 1,000+ concurrent users, 
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SandeepReddyThippareddy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=30)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SandeepReddyThippareddy&theme=dark&hide_border=false&cache_seconds=30)<br/>
+![](https://github-readme-stats.vercel.app/api?username=SandeepReddyThippareddy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=30)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SandeepReddyThippareddy&theme=dark&hide_border=false&cache_seconds=30)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepReddyThippareddy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=30)
+
 
 [![](https://visitcount.itsvg.in/api?id=SandeepReddyThippareddy&icon=0&color=0)](https://visitcount.itsvg.in)
