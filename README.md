@@ -23,7 +23,7 @@ I once optimized a video streaming platform to support 1,000+ concurrent users, 
 <a href="https://linkedin.com/in/sandeepreddythippareddy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://sandeepthippareddy.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"></a>
 <a href="mailto:sandeepthippareddyedu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://github.com/sr-thippareddy_resmed" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/SandeepReddyThippareddy" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 ---
 
