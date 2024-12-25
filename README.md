@@ -62,8 +62,11 @@ I once optimized a video streaming platform to support 1,000+ concurrent users, 
 ---
 
 ## ✨ Featured Projects:
-- [Event Management Platform](https://github.com/sandeepthippareddy/event-management-platform):  
+- [Event Management Platform](https://github.com/SandeepReddyThippareddy/Activity-Management):  
   A scalable event coordination platform built with .NET and React.js, handling 1,000+ participants across 50+ events.
+
+- [Library Management Platform](https://github.com/SandeepReddyThippareddy/LibraryApp):  
+  A scalable library management platform built with .NET and React.js, handling both admin and user dashboards with RBAC.
 
 - [Breast Cancer Chatbot](https://github.com/sandeepthippareddy/health-chatbot):  
   An AI chatbot providing breast cancer insights using Python, Flask, and NLP, serving 300+ weekly users.
