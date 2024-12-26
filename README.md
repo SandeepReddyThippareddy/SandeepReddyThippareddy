@@ -68,6 +68,9 @@ I once optimized a video streaming platform to support 1,000+ concurrent users, 
 - [Library Management Platform](https://github.com/SandeepReddyThippareddy/LibraryApp):  
   A scalable library management platform built with .NET and React.js, handling both admin and user dashboards with RBAC.
 
+- [Predictive Modeling for future term associations in scientific literature using advanced NLP techniques](https://github.com/SandeepReddyThippareddy/PREDICTIVE-MODELING-FOR-FUTURE-TERM-ASSOCIATIONS-IN-SCIENTIFIC-LITERATURE-USING-ADVANCED-NLP-TECH):  
+  Developed an NLP-based framework utilizing BERT, LSTM, and ARIMA to analyze scientific literature, identify emerging research trends, and detect weak signals across ArXiv, PubMed, and CrossRef datasets, improving trend forecasting accuracy by 30% and reducing literature review time by 25%.
+
 - [Breast Cancer Chatbot](https://github.com/sandeepthippareddy/health-chatbot):  
   An AI chatbot providing breast cancer insights using Python, Flask, and NLP, serving 300+ weekly users.
 
