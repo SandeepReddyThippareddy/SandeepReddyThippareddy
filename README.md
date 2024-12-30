@@ -71,8 +71,11 @@ I once optimized a video streaming platform to support 1,000+ concurrent users, 
 - [Predictive Modeling for future term associations in scientific literature using advanced NLP techniques](https://github.com/SandeepReddyThippareddy/PREDICTIVE-MODELING-FOR-FUTURE-TERM-ASSOCIATIONS-IN-SCIENTIFIC-LITERATURE-USING-ADVANCED-NLP-TECH):  
   Developed an NLP-based framework utilizing BERT, LSTM, and ARIMA to analyze scientific literature, identify emerging research trends, and detect weak signals across ArXiv, PubMed, and CrossRef datasets, improving trend forecasting accuracy by 30% and reducing literature review time by 25%.
 
-- [Breast Cancer Chatbot](https://github.com/sandeepthippareddy/health-chatbot):  
+- [Breast Cancer Chatbot](https://github.com/SandeepReddyThippareddy/Chatbot-for-Breast-Cancer-Health):  
   An AI chatbot providing breast cancer insights using Python, Flask, and NLP, serving 300+ weekly users.
+
+- [Sign-Language-Recognition-using-Transfer-Learning](https://github.com/SandeepReddyThippareddy/Sign-Language-Recognition-using-Transfer-Learning)
+  The project leverages transfer learning with pre-trained models (VGG16 and ResNet50) to detect and translate ASL fingerspelling into text. It aims to provide an accessible communication tool for the Deaf and Hard of Hearing community.
 
 - [Cloud-Native APIs](https://github.com/sandeepthippareddy/cloud-native-api):  
   Serverless APIs leveraging AWS Lambda and API Gateway for low-latency and high-availability systems.
